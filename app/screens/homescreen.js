@@ -25,7 +25,7 @@ function HomeScreen(props) {
                     <Button 
                         title = "Start"
                         color = 'black'
-                        onPress={() => console.log('Clicked')}
+                        onPress={() => console.log('Button Clicked')}
                     >
                     </Button>
                 </View>
